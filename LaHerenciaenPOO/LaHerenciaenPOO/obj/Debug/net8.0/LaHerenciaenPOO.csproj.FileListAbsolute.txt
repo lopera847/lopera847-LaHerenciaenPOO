@@ -1,0 +1,14 @@
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\bin\Debug\net8.0\LaHerenciaenPOO.exe
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\bin\Debug\net8.0\LaHerenciaenPOO.deps.json
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\bin\Debug\net8.0\LaHerenciaenPOO.runtimeconfig.json
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\bin\Debug\net8.0\LaHerenciaenPOO.dll
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\bin\Debug\net8.0\LaHerenciaenPOO.pdb
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\obj\Debug\net8.0\LaHerenciaenPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\obj\Debug\net8.0\LaHerenciaenPOO.AssemblyInfoInputs.cache
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\obj\Debug\net8.0\LaHerenciaenPOO.AssemblyInfo.cs
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\obj\Debug\net8.0\LaHerenciaenPOO.csproj.CoreCompileInputs.cache
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\obj\Debug\net8.0\LaHerenciaenPOO.dll
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\obj\Debug\net8.0\refint\LaHerenciaenPOO.dll
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\obj\Debug\net8.0\LaHerenciaenPOO.pdb
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\obj\Debug\net8.0\LaHerenciaenPOO.genruntimeconfig.cache
+C:\Users\Juan Lopera\source\repos\LaHerenciaenPOO\LaHerenciaenPOO\obj\Debug\net8.0\ref\LaHerenciaenPOO.dll
